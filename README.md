@@ -32,12 +32,12 @@ git clone https://github.com/parithipotter/Pollbuster-v.2.git
 ```
 step 2:
 ```bash
-chmod +x pollbuster_v.2.py
+chmod +x Pollbuster_v.2.py
 
 ```
 step 3:
 ```bash
-python3 pollbuster_v.2.py
+python3 Pollbuster_v.2.py
 ```
 
 ```bash
